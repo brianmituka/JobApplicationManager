@@ -15,7 +15,7 @@ What can the application do?
 1. Login / Sign Up : Log in to your account to manage your job applications/ Sign up
 2. Document Management: Manage your documents. Download/Edit/Upload any relevant documents you might need.
 3. Cover letter Generator: Generate and customize cover letters for your job applications.
-4. Job Applications: List of all the job applications you have applied to and their status. You can search based on keywords.
+4. Job Applications: List of all the jobs you have applied to and their status. You can search based on keywords.
 
 ## Technologies used
 1. Angular
